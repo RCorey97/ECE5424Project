@@ -30,3 +30,9 @@ Llama 3.1: 405B & 8B
 When the script asks for your unique custom URL, please paste the URL below
 URL
 https://llama3-1.llamameta.net/*?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiMmRuMWdiZThkZHdhM3ZwczM1bTc0cWEwIiwiUmVzb3VyY2UiOiJodHRwczpcL1wvbGxhbWEzLTEubGxhbWFtZXRhLm5ldFwvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MzU5OTIxN319fV19&Signature=qvkxSVEncXipJbbJpx84QUMkFwY8jCnDuekZQ8tF-aX2nFkecAY2oQixQfWWg4KK6hJUoaPOisTzkmYy47PrBZPZvff6h7h4HCw00oM8R4AOAMkOHNH1p%7EtmgUr0ET%7Erdf-5NivC9I%7EQNkohaZDWkdfTYtclfz6wLmzpkk3luwK7DAwp9cAPz0DH7dNXFgt-ETcWhaLvsDtaWNIrEuKw4Ox%7EtYuCVJxGVJplsAkc9YQ9RdNHi-P9aRnwGZAt5lQwBN0vM9bTX-XkYBExEubNFTN5cU9ErjhjF34IQMO47QXXQeoN-B%7E-%7EXwji17zcJgM-TXwyHX14hMkdgv5TVpeZQ__&Key-Pair-Id=K15QRJLYKIFSLZ&Download-Request-ID=954160630483037
+
+#Dataset 1
+https://arxiv.org/abs/2009.03300
+
+#Dataset 2
+https://arxiv.gg/abs/2109.07958
