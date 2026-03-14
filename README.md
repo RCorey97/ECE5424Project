@@ -6,7 +6,8 @@
 #Open Below Link
 https://colab.research.google.com/github/LostRuins/koboldcpp/blob/concedo/colab.ipynb#scrollTo=uJS9i_Dltv8Y)
 #Select the Model below
-https://huggingface.co/bartowski/L3-8B-Lunaris-v1-GGUF/resolve/main/L3-8B-Lunaris-v1-Q4_K_M.gguf
+https://huggingface.co/robcorey/model/blob/main/meta-llama-3.1-8b.Q4_K_M.gguf
+#Edit and create new models with Llama_3_1_8b file
 
 #Dataset 1
 https://arxiv.org/abs/2009.03300
